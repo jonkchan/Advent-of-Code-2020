@@ -1,7 +1,5 @@
 # Advent of Code 2020 Solutions
 
-## Current Status
-
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 1   | Solved | Solved |
