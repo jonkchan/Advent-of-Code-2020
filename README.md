@@ -7,7 +7,7 @@
 | 3   | Solved | Solved |
 | 4   | Solved | Solved |
 | 5   |        |        |
-| 6   |        |        |
+| 6   | Solved | Solved |
 | 7   |        |        |
 | 8   |        |        |
 | 9   |        |        |
