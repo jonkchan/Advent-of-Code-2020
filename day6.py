@@ -1,8 +1,6 @@
 class Day6:
 
     def __init__(self, filename):
-        # with open(filename, 'r') as file:
-        #     self.key = file.read().splitlines()
         with open(filename, 'r') as file:
             self.key = self.key_delimiter(file.read())
 
@@ -30,7 +28,7 @@ class Day6:
             total_sum += len(set(consolidated_responses))
         return total_sum
 
-    def part2(self):
+    def part2(self) -> int:
         total_sum = 0
         for group in self.key:
             response_tracker = {}
