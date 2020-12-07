@@ -44,9 +44,9 @@ class Day5:
 
         seat_ids = sorted(seat_ids)
 
-        for idx, seat_id in enumerate(seat_ids):
-            if seat_id != seat_ids[idx - 1] + 1:
-                return seat_ids[idx - 1] + 1
+        for idx, seat_id in enumerate(seat_ids, seat_ids[0]):
+            if seat_id != idx:
+                return idx
 
 
 if __name__ == "__main__":
