@@ -9,6 +9,6 @@
 | 5   | Solved | Solved |
 | 6   | Solved | Solved |
 | 7   |        |        |
-| 8   |        |        |
-| 9   |        |        |
+| 8   | Solved |        |
+| 9   | Solved | Solved |
 | 10  |        |        |
