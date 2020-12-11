@@ -2,13 +2,15 @@
 
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
-| 1   | Solved | Solved |
-| 2   | Solved | Solved |
-| 3   | Solved | Solved |
-| 4   | Solved | Solved |
-| 5   | Solved | Solved |
-| 6   | Solved | Solved |
+| 1   | ⭐     | ⭐     |
+| 2   | ⭐     | ⭐     |
+| 3   | ⭐     | ⭐     |
+| 4   | ⭐     | ⭐     |
+| 5   | ⭐     | ⭐     |
+| 6   | ⭐     | ⭐     |
 | 7   |        |        |
-| 8   | Solved |        |
-| 9   | Solved | Solved |
-| 10  |        |        |
+| 8   | ⭐     |        |
+| 9   | ⭐     | ⭐     |
+| 10  | ⭐     |        |
+| 11  | ⭐     |        |
+| 12  |        |        |
